@@ -22,6 +22,8 @@ Clone the repo and open locally index.html in your browser, no need to install o
 ### Roadmap of future improvements
 Curently I do not plan any further activities in this repository. 
 
+### Demo
+Click [here](https://dimonrmp.github.io/projects/moving-balls/balls.html) to see and check the demo of the project 
 
 ### License
 MIT License
